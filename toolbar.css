@@ -1,0 +1,24 @@
+.Frieren-theme {
+  /* $editorBg */
+  --color-bg-base: #ffffff;
+  /* $toolbarBg */
+  --color-bg-toolBar: #ffe3e3;
+  /* $toolbarBg */
+  --color-bg-button: #ffe3e3;
+  /* color5 */
+  --color-bg-button-hover: #ff6b6b;
+  /* color9 */
+  --color-text-toolBar: #c92a2a;
+  /* color9 */
+  --color-text-button: #c92a2a;
+  /* color0 */
+  --color-text-button-hover: #fff5f5;
+  /* color9 */
+  --color-text-base: #c92a2a;
+  /* color9 */
+  --color-text-input: #c92a2a;
+  /* 自定义 */
+  --color-border-select: #c5c5c5;
+  /* $editorBg */
+  --color-bg-input: #ffffff;
+}
